@@ -1,2 +1,2 @@
 # StaticImportC - Golang
-Import C function to Go - Static Binding
+Import C function in Go - Static Binding
